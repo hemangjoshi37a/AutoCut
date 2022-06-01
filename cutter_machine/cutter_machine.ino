@@ -34,8 +34,6 @@ LiquidCrystal_I2C lcd(0x27,20,4);  // set the LCD address to 0x27 for a 16 chars
 
 void setup() {
   Serial.begin(9600);
-  
-  
 //  lcd.begin(16, 2);
 
     //initialize lcd screen
@@ -45,7 +43,7 @@ void setup() {
 
   
   lcd.setCursor(0, 0);
-  lcd.print("   = Nexleen =");
+  lcd.print("   = hjLabs.in =");
 //  pinMode(ledPin, OUTPUT);
   pinMode(buttonUp, INPUT);
   pinMode(buttonOK, INPUT);
