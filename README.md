@@ -47,3 +47,5 @@ https://youtu.be/PXlMu_Wvp-Q
 
 
 # [👉 BUY NOW on hjLabs.in👈](https://hjlabs.in/?product=automatic-wire-cutter-machine)
+![DSCN5432](https://user-images.githubusercontent.com/12392345/171394550-416fa964-433e-47ab-9b23-09397f479ce2.JPG)
+![DSCN5417](https://user-images.githubusercontent.com/12392345/171394593-6f5d4a8a-7808-4d13-a489-f9c047c6c05c.JPG)
