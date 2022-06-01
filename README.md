@@ -45,6 +45,9 @@ https://youtu.be/PXlMu_Wvp-Q
 | RESISTOR	| 1 |
 | RIBBON CABLE (300mm)	| 1 |
 
+## 5. Schematic Diagram
+![schematic_diagram](https://user-images.githubusercontent.com/12392345/171405362-29d555b2-e3ec-42bb-857e-ddd3c27fc3ec.PNG)
+
 
 # [👉 BUY NOW on hjLabs.in👈](https://hjlabs.in/?product=automatic-wire-cutter-machine)
 ![DSCN5432](https://user-images.githubusercontent.com/12392345/171394550-416fa964-433e-47ab-9b23-09397f479ce2.JPG)
