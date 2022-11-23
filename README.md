@@ -3,8 +3,6 @@
 ![2](https://user-images.githubusercontent.com/12392345/170875186-d61e9e0e-a6df-42b8-b0d3-751a5de16c68.png)
 [![AutoCut V2](https://img.youtube.com/vi/bnWMskTA5V4/0.jpg)](https://www.youtube.com/watch?v=bnWMskTA5V4)
 
-[![AutoCut V2](https://img.youtube.com/vi/bnWMskTA5V4/0.jpg)](https://youtu.be/bnWMskTA5V4?t=35s "AutoCut V2")
-
 ## 1. How to operate?
 - Set number of pieces.
 - Set size of cut wire.
