@@ -1,7 +1,7 @@
 # AutoCut
 ## Automatic wire cutting machine /w Arduino
 ![2](https://user-images.githubusercontent.com/12392345/170875186-d61e9e0e-a6df-42b8-b0d3-751a5de16c68.png)
-https://youtu.be/PXlMu_Wvp-Q
+https://www.youtube.com/watch?v=bnWMskTA5V4
 
 ## 1. How to operate?
 - Set number of pieces.
