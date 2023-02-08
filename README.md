@@ -52,7 +52,9 @@
 ![DSCN5432](https://user-images.githubusercontent.com/12392345/171394550-416fa964-433e-47ab-9b23-09397f479ce2.JPG)
 ![DSCN5417](https://user-images.githubusercontent.com/12392345/171394593-6f5d4a8a-7808-4d13-a489-f9c047c6c05c.JPG)
 
+
 ## 📫 How to reach me
+[<img height="36" src="https://cdn.simpleicons.org/similarweb"/>](https://hjlabs.in/) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/telegram"/>](https://t.me/hjlabs) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/Gmail"/>](mailto:hemangjoshi37a@gmail.com) &nbsp;
@@ -64,6 +66,7 @@
 [<img height="36" src="https://cdn.simpleicons.org/Instagram"/>](https://www.instagram.com/hemangjoshi37) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/Pinterest"/>](https://in.pinterest.com/hemangjoshi37a) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/Blogger"/>](http://hemangjoshi.blogspot.com) &nbsp;
+[<img height="36" src="https://cdn.simpleicons.org/gitlab"/>](https://gitlab.com/hemangjoshi37a) &nbsp;
 
  
 ## Checkout Cool GitHub Other Repositories:
