@@ -1,85 +1,109 @@
 # AutoCut V2
-## Automatic wire cutting machine /w Arduino
-[![AutoCut V2](https://hjlabs.in/wp-content/uploads/2022/11/Youtube-Video-Template-psd18456.png)](https://www.youtube.com/watch?v=bnWMskTA5V4)
+## Automatic Wire Cutting Machine /w Arduino
 
-## 1. How to operate?
-- Set number of pieces.
-- Set size of cut wire.
-- Press OK to see the ✨Magic ✨
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bnWMskTA5V4"><img src="https://hjlabs.in/wp-content/uploads/2022/11/Youtube-Video-Template-psd18456.png" alt="AutoCut V2" width="600"/></a>
+</p>
 
-## 2. Features
-- direct 230V IEC Power Connector.
+---
+
+## Table of Contents
+1. [How to Operate?](#how-to-operate)
+2. [Features](#features)
+4. [BOM – Simple Cutter Machine](#bom--simple-cutter-machine)
+5. [Schematic Diagram](#schematic-diagram)
+6. [Contact Me](#contact-me)
+7. [Repositories](#repositories)
+8. [Other Products](#other-products)
+9. [Arduino and ESP8266 Projects](#arduino-and-esp8266-projects)
+10. [3D GrabCAD Models](#3d-grabcad-models)
+11. [HuggingFace Models and Datasets](#huggingface-models-and-datasets)
+12. [Awesome YouTube Videos](#awesome-youtube-videos)
+13. [My Blog](#my-blog)
+14. [Android Apps](#android-apps)
+
+---
+
+## How to Operate?
+- Set the number of pieces.
+- Set the size of cut wire.
+- Press OK to see the ✨Magic✨
+
+## Features
+- Direct 230V IEC Power Connector.
 - Easily adjust wire grip strength.
-- Cut guage 18 to 20 wires.
+- Cut gauge 18 to 20 wires.
 - Watch live how many pieces are done cutting.
 - LED Display for control
 - Rugged industrial buttons for longevity of the machine.
 - Made from 5mm thick acrylic adding ultimate strength to the machine.
-- Easily replacable parts.
-- Hardware and software are fully opensourced.
+- Easily replaceable parts.
+- Hardware and software are fully open-sourced.
 
-## 3. Hardware Files
-- [SolidWorks Acrylic Laser Cut Design Files](https://grabcad.com/library/automatic-wire-cutter-machine-1)
-
-## 4. BOM – SIMPLE CUTTER  MACHINE 
-| ITEM |	 QTY |
+## BOM – Simple Cutter Machine 
+| ITEM | QTY |
 | :---: | :---: |
-| WIRE CUTTER |	 1 |
-| NEMA 17 STEPPER  MOTOR 5.6kg| 1 |
-| CLUTCH (LEFT SIDE)	| 1 |
-| SERVO MOTOR  (MG958 DIGI METAL GEAR)	| 1 |
-| ACRYLIC	| 1 |
-| BUTTON	| 6 |
-| M4x10mm nut bolt	| 8 |
-| M3X10mm nut bolt	| 10 |
-| PC POWER SOCKET	| 1 |
-| 16x2 LCD DISPLAY	| 1 |
-| ARDUINO NANO	| 1 |
-| STEPPER MOTOR DRIVER	| 1 |
-| SMPS 5V 4A	| 1 |
-| SMPS 12V 2A	| 1 |
-| POWER CABLE	| 1 |
-| WHITE FILTER MACHINE PIPE	| 1 |
-| SERVO CUTTER PEN  ASSEMBLY WITH NUT BOLT	| 1 |
-| RESISTOR	| 1 |
-| RIBBON CABLE (300mm)	| 1 |
+| WIRE CUTTER | 1 |
+| NEMA 17 STEPPER MOTOR 5.6kg| 1 |
+| CLUTCH (LEFT SIDE) | 1 |
+| SERVO MOTOR (MG958 DIGI METAL GEAR) | 1 |
+| ACRYLIC | 1 |
+| BUTTON | 6 |
+| M4x10mm nut bolt | 8 |
+| M3X10mm nut bolt | 10 |
+| PC POWER SOCKET | 1 |
+| 16x2 LCD DISPLAY | 1 |
+| ARDUINO NANO | 1 |
+| STEPPER MOTOR DRIVER | 1 |
+| SMPS 5V 4A | 1 |
+| SMPS 12V 2A | 1 |
+| POWER CABLE | 1 |
+| WHITE FILTER MACHINE PIPE | 1 |
+| SERVO CUTTER PEN ASSEMBLY WITH NUT BOLT | 1 |
+| RESISTOR | 1 |
+| RIBBON CABLE (300mm) | 1 |
 
-## 5. Schematic Diagram
-![schematic_diagram](https://user-images.githubusercontent.com/12392345/171405362-29d555b2-e3ec-42bb-857e-ddd3c27fc3ec.PNG)
+## Schematic Diagram
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12392345/171405362-29d555b2-e3ec-42bb-857e-ddd3c27fc3ec.PNG" alt="Schematic Diagram" />
+</p>
 
+## [👉 BUY NOW on hjLabs.in 👈](https://hjlabs.in/?product=automatic-wire-cutter-machine)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12392345/171394550-416fa964-433e-47ab-9b23-09397f479ce2.JPG" alt="AutoCut V2" width="400" />
+  <img src="https://user-images.githubusercontent.com/12392345/171394593-6f5d4a8a-7808-4d13-a489-f9c047c6c05c.JPG" alt="AutoCut V2" width="400" />
+</p>
 
-# [👉 BUY NOW on hjLabs.in👈](https://hjlabs.in/?product=automatic-wire-cutter-machine)
-![DSCN5432](https://user-images.githubusercontent.com/12392345/171394550-416fa964-433e-47ab-9b23-09397f479ce2.JPG)
-![DSCN5417](https://user-images.githubusercontent.com/12392345/171394593-6f5d4a8a-7808-4d13-a489-f9c047c6c05c.JPG)
+---
 
+## Contact Me
+<p align="center">
+<a href="https://hjlabs.in/"><img alt="Website" src="https://img.shields.io/badge/Website-hjlabs.in-blue?style=for-the-badge&logo=internet-explorer"></a>
+<a href="https://wa.me/917016525813"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/hjlabs"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:hemangjoshi37a@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/hemang-joshi-046746aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/hemangjoshi37"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://twitter.com/HemangJ81509525"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.tumblr.com/blog/hemangjoshi37a-blog"><img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/8090050/hemang-joshi"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="https://www.instagram.com/hemangjoshi37"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://in.pinterest.com/hemangjoshi37a"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="http://hemangjoshi.blogspot.com"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://gitlab.com/hemangjoshi37a"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</p> 
 
-## 📫 How to reach me
-[<img height="36" src="https://cdn.simpleicons.org/similarweb"/>](https://hjlabs.in/) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/telegram"/>](https://t.me/hjlabs) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/Gmail"/>](mailto:hemangjoshi37a@gmail.com) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/LinkedIn"/>](https://www.linkedin.com/in/hemang-joshi-046746aa) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/facebook"/>](https://www.facebook.com/hemangjoshi37) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/Twitter"/>](https://twitter.com/HemangJ81509525) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/tumblr"/>](https://www.tumblr.com/blog/hemangjoshi37a-blog) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/StackOverflow"/>](https://stackoverflow.com/users/8090050/hemang-joshi) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/Instagram"/>](https://www.instagram.com/hemangjoshi37) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/Pinterest"/>](https://in.pinterest.com/hemangjoshi37a) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/Blogger"/>](http://hemangjoshi.blogspot.com) &nbsp;
-[<img height="36" src="https://cdn.simpleicons.org/gitlab"/>](https://gitlab.com/hemangjoshi37a) &nbsp;
-
- 
-## Checkout Cool GitHub Other Repositories:
+## Repositories
 - [pyPortMan](https://github.com/hemangjoshi37a/pyPortMan)
-- [transformers_stock_prediction](https://github.com/hemangjoshi37a/transformers_stock_prediction)
+- [Transformers Stock Prediction](https://github.com/hemangjoshi37a/transformers_stock_prediction)
 - [TrendMaster](https://github.com/hemangjoshi37a/TrendMaster)
-- [hjAlgos_notebooks](https://github.com/hemangjoshi37a/hjAlgos_notebooks)
+- [hjAlgos Notebooks](https://github.com/hemangjoshi37a/hjAlgos_notebooks)
 - [AutoCut](https://github.com/hemangjoshi37a/AutoCut)
-- [My_Projects](https://github.com/hemangjoshi37a/My_Projects)
-- [Cool Arduino and ESP8266 or NodeMCU Projects](https://github.com/hemangjoshi37a/my_Arduino)
+- [My Projects](https://github.com/hemangjoshi37a/My_Projects)
+- [Cool Arduino and ESP8266 Projects](https://github.com/hemangjoshi37a/my_Arduino)
 - [Telegram Trade Msg Backtest ML](https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML)
-
-## Checkout Our Other Products:
+  
+## Other Products
 - [WiFi IoT LED Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
 - [SWiBoard WiFi Switch Board IoT Device](https://hjlabs.in/product/swiboard-wifi-switch-board-iot-device)
 - [Electric Bicycle](https://hjlabs.in/product/electric-bicycle)
@@ -87,54 +111,43 @@
 - [AutoCut : Automatic Wire Cutter Machine](https://hjlabs.in/product/automatic-wire-cutter-machine/)
 - [Custom AlgoTrading Software Coding Services](https://hjlabs.in/product/custom-algotrading-software-for-zerodha-and-angel-w-source-code//)
 - [SWiBoard :Tasmota MQTT Control](https://play.google.com/store/apps/details?id=in.hjlabs.swiboard)
-- [Custom Token Classification or Named Entity Recognition (NER) model as in Natural Language Processing (NLP) Machine Learning](https://hjlabs.in/product/custom-token-classification-or-named-entity-recognition-ner-model-as-in-natural-language-processing-nlp-machine-learning/)
+- [Custom Token Classification or Named Entity Recognition (NER) model](https://hjlabs.in/product/custom-token-classification-or-named-entity-recognition-ner-model-as-in-natural-language-processing-nlp-machine-learning/)
 
-## Some Cool Arduino and ESP8266 (or NodeMCU) IoT projects:
-- [IoT_LED_over_ESP8266_NodeMCU : Turn LED on and off using web server hosted on a nodemcu or esp8266](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_LED_over_ESP8266_NodeMCU)
-- [ESP8266_NodeMCU_BasicOTA : Simple OTA (Over The Air) upload code from Arduino IDE using WiFi to NodeMCU or ESP8266](https://github.com/hemangjoshi37a/my_Arduino/tree/master/ESP8266_NodeMCU_BasicOTA)  
-- [IoT_CSV_SD : Read analog value of Voltage and Current and write it to SD Card in CSV format for Arduino, ESP8266, NodeMCU etc](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_CSV_SD)  
-- [Honeywell_I2C_Datalogger : Log data in A SD Card from a Honeywell I2C HIH8000 or HIH6000 series sensor having external I2C RTC clock](https://github.com/hemangjoshi37a/my_Arduino/tree/master/Honeywell_I2C_Datalogger)
-- [IoT_Load_Cell_using_ESP8266_NodeMC : Read ADC value from High Precision 12bit ADS1015 ADC Sensor and Display on SSD1306 SPI Display as progress bar for Arduino or ESP8266 or NodeMCU](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_Load_Cell_using_ESP8266_NodeMC)
-- [IoT_SSD1306_ESP8266_NodeMCU : Read from High Precision 12bit ADC seonsor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU)  
+## Arduino and ESP8266 Projects
+- [IoT_LED_over_ESP8266_NodeMCU](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_LED_over_ESP8266_NodeMCU) : Turn LED on and off using web server hosted on a nodemcu or esp8266
+- [ESP8266_NodeMCU_BasicOTA](https://github.com/hemangjoshi37a/my_Arduino/tree/master/ESP8266_NodeMCU_BasicOTA) : Simple OTA (Over The Air) upload code from Arduino IDE using WiFi to NodeMCU or ESP8266
+- [IoT_CSV_SD](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_CSV_SD) : Read analog value of Voltage and Current and write it to SD Card in CSV format for Arduino, ESP8266, NodeMCU etc
+- [Honeywell_I2C_Datalogger](https://github.com/hemangjoshi37a/my_Arduino/tree/master/Honeywell_I2C_Datalogger) : Log data in A SD Card from a Honeywell I2C HIH8000 or HIH6000 series sensor having external I2C RTC clock
+- [IoT_Load_Cell_using_ESP8266_NodeMC](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_Load_Cell_using_ESP8266_NodeMC) : Read ADC value from High Precision 12bit ADS1015 ADC Sensor and Display on SSD1306 SPI Display as progress bar for Arduino or ESP8266 or NodeMCU
+- [IoT_SSD1306_ESP8266_NodeMCU](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU) : Read from High Precision 12bit ADC sensor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino
 
-## Checkout Our Awesome 3D GrabCAD Models:
-- [AutoCut : Automatic Wire Cutter Machine](https://grabcad.com/library/automatic-wire-cutter-machine-1)
-- [ESP Matrix Display 5mm Acrylic Box](https://grabcad.com/library/esp-matrix-display-5mm-acrylic-box-1)
-- [Arcylic Bending Machine w/ Hot Air Gun](https://grabcad.com/library/arcylic-bending-machine-w-hot-air-gun-1)
-- [Automatic Wire Cutter/Stripper](https://grabcad.com/library/automatic-wire-cutter-stripper-1)
-
-## Our HuggingFace Models :
-- [hemangjoshi37a/autotrain-ratnakar_1000_sample_curated-1474454086 : Stock tip message NER(Named Entity Recognition or Token Classification) using HUggingFace-AutoTrain and LabelStudio and Ratnakar Securities Pvt. Ltd.](https://huggingface.co/hemangjoshi37a/autotrain-ratnakar_1000_sample_curated-1474454086)
-
-## Our HuggingFace Datasets :
-- [hemangjoshi37a/autotrain-data-ratnakar_1000_sample_curated : Stock tip message NER(Named Entity Recognition or Token Classification) using HUggingFace-AutoTrain and LabelStudio and Ratnakar Securities Pvt. Ltd.](https://huggingface.co/datasets/hemangjoshi37a/autotrain-data-ratnakar_1000_sample_curated)
-
-## Awesome Youtube Videos :
-- [❤️ હદય અને હદયના ધબકારા 💙 दिल और दिल की धड़कन 💖 Heart and beating of heart by Priyanka madam. 💕](https://www.youtube.com/watch?v=9v3MK6oTOeA)
-- [🩸 રુધિર વહીનીઓ અને એના કર્યો. 🩸 Blood Vessels And Working of Blood Vessels 🩸 By Priyankama'am](https://www.youtube.com/watch?v=T7mMcEYNKyQ)
-- [🩸 મનુષ્યમાં પરિવહન તંત્ર 🩸 परिसंचरण तंत्र 🩸 Blood Circulation System in Humans🩸 By Priyanka madam](https://www.youtube.com/watch?v=vxa6o_wrWnY)
+## HuggingFace Models and Datasets
+- [Stock tip message NER](https://huggingface.co/hemangjoshi37a/autotrain-ratnakar_1000_sample_curated-1474454086) : Named Entity Recognition or Token Classification using HuggingFace-AutoTrain and LabelStudio.
+  
+## Awesome YouTube Videos
+- [❤️ Heart and beating of heart by Priyanka madam. 💕](https://www.youtube.com/watch?v=9v3MK6oTOeA)
+- [🩸 Blood Vessels And Working of Blood Vessels 🩸 By Priyankama'am](https://www.youtube.com/watch?v=T7mMcEYNKyQ)
+- [🩸 Blood Circulation System in Humans🩸 By Priyanka madam](https://www.youtube.com/watch?v=vxa6o_wrWnY)
 - [AutoCut V2 - The World's Most Powerful Arduino Automatic Wire Cutting Machine](https://www.youtube.com/watch?v=oGr0mWmNhKY)
 - [SWiBoard - A Killer Gadget to Boost Your Boring Switchboard](https://www.youtube.com/watch?v=ftza6WM4LiE)
-- [🧪 મનુષ્યમાં ઉત્સર્જન-તંત્ર 🦠 मानव उत्सर्जन तंत्र ⚗️ excretory system 🩺](https://www.youtube.com/watch?v=UUGI-CFKsWI)
-- [🌳વનસ્પતિમાં પાણી અને ખનીજ તત્વોનું વહન 🌲](https://youtu.be/1da9p6iYlr4)
-- [🌲 વનસ્પતિમાં બાષ્પોત્સર્જન 🌳 पेड़ में वाष्पोत्सर्जन 🎄Transpiration in Trees](https://youtu.be/I9Sirc42Ktg)
-- [🫁 સજીવોમાં શ્વસન 🧬 जीवों में श्वास 🫀 Breathing in organisms 👩🏻‍🔬](https://youtu.be/sIMl4t2OFmY)
-- [🫁 શ્વસનની પ્રક્રિયા 🫀Respiratory System 🦠](https://youtu.be/hua8ZD5Ge1w)
-- [🫁 મનુષ્યમાં શ્વાસ અને ઉચ્છશ્વાસ ⚛️ ](https://youtu.be/BI-CYgnkGCw)
+- [🧪 Excretory system by Priyanka madam](https://www.youtube.com/watch?v=UUGI-CFKsWI)
+- [🌳 Transpiration in Trees by Priyanka madam](https://youtu.be/1da9p6iYlr4)
+- [🫁 Breathing in organisms by Priyanka madam](https://youtu.be/sIMl4t2OFmY)
+- [🫁 Respiratory System by Priyanka madam](https://youtu.be/hua8ZD5Ge1w)
+- [🫁 Inhalation and Exhalation process by Priyanka madam 👩🏻‍🔬](https://youtu.be/BI-CYgnkGCw)
 
-## My Quirky Blog :
+## My Blog
 - [Hemang Joshi](http://hemangjoshi.blogspot.com/)
 
-## Awesome Android Apps :
+## Android Apps
 - [SWiBoard :Tasmota MQTT Control](https://play.google.com/store/apps/details?id=in.hjlabs.swiboard)
  
-## Checkout Cool GitLab Other Repositories:
+## GitLab Repositories
 - [pyPortMan](https://gitlab.com/hemangjoshi37a/pyPortMan)
-- [transformers_stock_prediction](https://gitlab.com/hemangjoshi37a/transformers_stock_prediction)
+- [Transformers Stock Prediction](https://gitlab.com/hemangjoshi37a/transformers_stock_prediction)
 - [TrendMaster](https://gitlab.com/hemangjoshi37a/TrendMaster)
-- [hjAlgos_notebooks](https://gitlab.com/hemangjoshi37a/hjAlgos_notebooks)
+- [hjAlgos Notebooks](https://gitlab.com/hemangjoshi37a/hjAlgos_notebooks)
 - [AutoCut](https://gitlab.com/hemangjoshi37a/AutoCut)
-- [My_Projects](https://gitlab.com/hemangjoshi37a/My_Projects)
-- [Cool Arduino and ESP8266 or NodeMCU Projects](https://gitlab.com/hemangjoshi37a/my_Arduino)
+- [My Projects](https://gitlab.com/hemangjoshi37a/My_Projects)
+- [Cool Arduino and ESP8266 Projects](https://gitlab.com/hemangjoshi37a/my_Arduino)
 - [Telegram Trade Msg Backtest ML](https://gitlab.com/hemangjoshi37a/TelegramTradeMsgBacktestML)
-
